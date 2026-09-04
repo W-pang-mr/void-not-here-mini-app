@@ -27,3 +27,12 @@ Open index.html in a browser, or serve the folder with any static server:
 5. Host the client over HTTPS and register the Mini App URL in BotFather.
 
 The UI is an original implementation based on the provided visual reference; it does not copy proprietary assets or code from another bot.
+
+
+## Telegram setup
+
+Use this HTTPS URL in BotFather as the Menu Button or Mini App URL:
+
+    https://w-pang-mr.github.io/void-not-here-mini-app/
+
+This build intentionally avoids external runtime dependencies so it can open reliably inside Telegram WebView.
